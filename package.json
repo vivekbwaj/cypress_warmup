@@ -1,0 +1,23 @@
+{
+  "name": "practise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress-open":"cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivekbwaj/cypress_warmup.git"
+  },
+  "author": "vivek bhardwaj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vivekbwaj/cypress_warmup/issues"
+  },
+  "homepage": "https://github.com/vivekbwaj/cypress_warmup#readme",
+  "dependencies": {
+    "cypress": "^3.2.0"
+  }
+}
