@@ -1,3 +1,4 @@
 {
+    "baseUrl": "https://css-tricks.com/",
     "integrationFolder":"testing-css-tricks/integration"
 }
